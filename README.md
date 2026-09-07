@@ -2,7 +2,7 @@
 
 Sebuah aplikasi web sederhana untuk mengelola daftar tugas harian (To-Do List). Aplikasi ini dibuat menggunakan HTML, CSS, dan JavaScript murni (Vanilla JS) dengan antarmuka yang bersih dan responsif.
 
-## 🚀 Fitur
+## 🚀 Fitur  utama
 
 - **Tambah Tugas**: Menambahkan daftar tugas baru.
 - **Tandai Selesai (✓)**: Mengubah status tugas menjadi selesai (teks akan dicetak coret).
@@ -10,6 +10,11 @@ Sebuah aplikasi web sederhana untuk mengelola daftar tugas harian (To-Do List). 
 - **Dukungan Enter**: Dapat menambahkan tugas dengan menekan tombol `Enter` pada keyboard.
 - **Validasi Input**: Menampilkan peringatan jika pengguna mencoba menambahkan tugas kosong.
 - **Pesan Kosong**: Menampilkan pesan "Belum ada tugas." jika semua tugas telah dihapus.
+
+## 🧷 Live Demo
+
+(jika abda sudah meng-online-kan aplikasi ini melalui Github pages/Netlify/Vercel, tautannya bisa diakses di bawah ini)
+- Demo Website: [ https://satyatriartha-ui.github.io/latihan-to-do-list/]
 
 ## 📂 Struktur File
 
